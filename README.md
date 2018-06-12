@@ -9,7 +9,7 @@
 	<li>Phụ huynh có thể trò chuyện, thắc mắc về các vấn đề trong trường học.</li>
 </ul>
 <h3>2. Yêu cầu</h3>
-<p>Hiện tại ứng dụng hỗ trợ hệ điều hành android có phiên bản từ 4.1 trở lên</p>
+<p>Hiện tại ứng dụng hỗ trợ hệ điều hành android có phiên bản từ 4.1 trở lên.</p>
 <h3>3. Cách cài đặt</h3>
 <p>Các bạn truy cập vào địa chỉ <a href="https://play.google.com/store/apps/details?id=edu.fis">https://play.google.com/store/apps/details?id=edu.fis</a> để tải ứng dụng hoặc truy cập vào địa chỉ website của trường Tương Lai <a href="http://future.edu.vn">future.edu.vn</a> và chọn biểu tượng google play để tải app.</p>
 <img src="img.png"/>
